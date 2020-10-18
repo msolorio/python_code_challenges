@@ -25,3 +25,4 @@ def get_unique_letters(str1, str2):
             res.append(char)
     
     return ''.join(res)
+
