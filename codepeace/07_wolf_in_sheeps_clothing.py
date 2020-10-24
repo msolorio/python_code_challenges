@@ -24,3 +24,4 @@ def warn_the_sheep(sheepArray):
     else:
         nextSheep = sheepLength - wolfIndex - 1
         return f"Oi! Sheep number {nextSheep}! You are about to be eaten by a wolf!"
+
