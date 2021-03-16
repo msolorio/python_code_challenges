@@ -25,7 +25,7 @@ def find_longest(string):
 
 #     return longest
 
-# MAKE IT BETTER
+# I DID IT MYYYYYY WAY 🎶
 # GIVEN A STRING OF WORDS OUTPUT THE LENGTH OF THE LONGEST WORD
 def get_longest_word(sentence):
     words = sentence.split(' ')
